@@ -1,4 +1,5 @@
 This React.js project depicts an interesting game to tap on the 3x3 grid cells and check the colored pattern.
+
 **Steps:**
 1. Initially, all cells are white
 2. Click on one random cell. It turns to red
