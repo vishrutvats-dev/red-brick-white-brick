@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1px;
+    align-items: center;
+    justify-content: center;
+}
+
+.items{
+    background-color: white;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.items.red {
+    background-color: red;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
